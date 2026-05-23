@@ -1,0 +1,3 @@
+[submodule "ICPC-Templates"]
+	path = ICPC-Templates
+	url = https://github.com/skip2004/ICPC-Templates.git
